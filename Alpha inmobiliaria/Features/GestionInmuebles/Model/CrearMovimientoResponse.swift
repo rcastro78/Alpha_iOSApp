@@ -1,0 +1,1 @@
+data class CrearMovimientoResponse(val success: Boolean, val message: String, val recibo: String?, val id: String)
